@@ -1,0 +1,12 @@
+Algoritmo Ejercicio9
+	Escribir 'Ingresar T1'
+	Leer t1
+	Escribir 'Ingresar T2'
+	Leer t2
+	Mientras t1<>0 Hacer
+		prom <- (t1+t2)/2
+		Escribir 'Promedio: ',prom
+		t1 <- t1-1
+		t2 <- t2-1
+	FinMientras
+FinAlgoritmo
